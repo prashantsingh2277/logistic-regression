@@ -1,1 +1,1 @@
-# logistic-regression
+Logistic regression is a binary classification algorithm in AI. It models the relationship between independent variables and a binary outcome. It estimates the probability of the outcome belonging to a specific class. Widely used for tasks like spam detection and sentiment analysis. Despite its name, logistic regression is a classification algorithm, not regression.
